@@ -23,3 +23,12 @@ git checkout -b 브랜치이름
 git branch 브랜치이름
 git checkout 브랜치이름
 
+#직전 작성 commit 메시지 수정
+git commit --amend
+
+# Merge 하는 방식
+git merge --no-ff 합칠 브랜치
+
+# 변경 로그 보기
+git reflog
+
