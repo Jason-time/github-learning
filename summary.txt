@@ -1,0 +1,3 @@
+#에디터 등록하기
+git config --global core.editor "\"c:\windows\notepad.exe\""
+
