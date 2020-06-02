@@ -17,3 +17,9 @@ git diff HEAD
 #현재 브랜치 확인 명령어
 git branch
 
+#브랜치 작성 후 변경
+git checkout -b 브랜치이름
+==
+git branch 브랜치이름
+git checkout 브랜치이름
+
