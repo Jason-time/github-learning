@@ -1,3 +1,8 @@
 #에디터 등록하기
 git config --global core.editor "\"c:\windows\notepad.exe\""
 
+#사용자 이름과 메일 주소 설정
+git config --local user.name "your name"
+git config --local user.email "your email"
+
+
