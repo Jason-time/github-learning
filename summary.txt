@@ -7,3 +7,13 @@ git config --local user.email "your email"
 
 #파일 변경 내용 출력
 git log -p
+
+#working tree 와 스테이지 영역의 차이를 확인
+git diff
+
+#working tree에서 최근에 변경 부분 확인 명령어
+git diff HEAD
+
+#현재 브랜치 확인 명령어
+git branch
+
